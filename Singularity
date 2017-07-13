@@ -1,5 +1,5 @@
-Bootstrap: docker
-From: centos:6.8
+BootStrap: shub
+From: singularityhub/centos:master
 
 %labels
 MAINTAINER hpcdevops
