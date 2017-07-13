@@ -1,5 +1,5 @@
-BootStrap: shub
-From: singularityhub/centos:master
+BootStrap:docker
+From:centos:latest
 
 %labels
 MAINTAINER hpcdevops
